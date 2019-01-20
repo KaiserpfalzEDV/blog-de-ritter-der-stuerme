@@ -221,7 +221,7 @@ install_languages
 install_plugins
 install_plugin_languages
 
-install_special_theme middleearth
+install_themes
 install_theme_languages
 
 copy_user_content
